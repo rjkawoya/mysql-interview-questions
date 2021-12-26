@@ -65,7 +65,7 @@ select * from employees order by salary limit 2,1;
 #### Q. ***How to find the unique values if the value in the column is repeated***
 #### Q. ***Define REGEXP*** 
 #### Q. ***Difference between CHAR and VARCHAR*** 
-Both of them are used for string type data. `char` has fixed length and if the inserted data is less than the defined length, required no. of blank spaces are added as padding. `varchar` has variable length and no padding is used to fill up the left out space. So technically, varchar will save space.
+Both of them are used for string type data. `char` has fixed length and if the inserted data is less than the defined length, required no. of blank spaces are added as padding. `varchar` has variable length and no padding is used to fill up the left out space. So technically, `varchar` will save space.
 #### Q. ***Give string types available for column***
 #### Q. ***What are the nonstandard string types***
 #### Q. ***What are all the Common SQL Function***
